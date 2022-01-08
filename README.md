@@ -111,7 +111,7 @@ $ cd 'path_to_libft'
 
 * You can check code norm due to [norminette](https://github.com/42School/norminette).
 
-* These are some testers for libft project:
+* These are some testers for ``libft`` project:
 
 	* [libftTester](https://github.com/Tripouille/libftTester)
 

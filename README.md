@@ -30,9 +30,9 @@
 
 The purpose of this project is to create own C library that implements original functions from the standard library.
 
-You can see the subject here: [`Libft`](en.subject.pdf).
+You can see the subject here: [Libft](en.subject.pdf).
 
-Main requirements, rules and code style: [`Norm`](en_norm.pdf).
+Main requirements, rules and code style: [Norm](en_norm.pdf).
 
 ---
 

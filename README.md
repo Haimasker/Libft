@@ -47,6 +47,7 @@ Flags: `-Wall` `-Werror` `-Wextra`
 
 <br>
 
+
 * Go to the project folder:
 
 ```shell
